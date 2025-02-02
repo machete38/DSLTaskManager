@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DSLTaskManager</string>
+    <string name="all_tasks">All tasks</string>
+    <string name="work">Work</string>
+    <string name="personal">Personal</string>
+    <string name="shopping">Shopping</string>
+    <string name="other">Other</string>
+</resources>
